@@ -1,0 +1,16 @@
+# server
+/server/node_modules
+/server/.env
+/server/package.json
+/server/src/constants
+/server/yarn.lock
+
+# client
+/client/node_modules
+/client/dist
+/client/package.json
+/client/yarn.lock
+/client/webpack.config.js
+/client/css
+
+# contract
