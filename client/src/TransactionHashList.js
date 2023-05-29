@@ -3,9 +3,7 @@ import '../css/transactionHash.css';
 
 const TransactionHashList = (transactionHash) => {
     const transactionHashList = transactionHash.transactionHash.slice(-3).reverse();
-    // if(transactionHash.transactionHash.length !== 0 ){
-    //     transactionHashList = transactionHash.transactionHash.slice(-3).reverse();
-    // };
+
     return (
         <div className="transaction-hash-list">
             <div className="transaction-hash-list-title">

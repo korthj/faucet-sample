@@ -12,5 +12,7 @@
 /client/yarn.lock
 /client/webpack.config.js
 /client/css
+/client/.babelrc
+
 
 # contract
